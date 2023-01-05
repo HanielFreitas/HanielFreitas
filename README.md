@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HanielFreitas
 - 👀 I’m interested in compartilhar meus conhecimentos assim como também apreender bastante com outras pessoas
-- 🌱 I’m currently learning git,github,docker.
+- 🌱 I'm currently looking for a job opportunity
 - 💞️ I’m looking to collaborate on projetos em python diversos
 - 📫 How to reach me hanielfreitas3@gmail.com
 
